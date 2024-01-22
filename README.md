@@ -7,3 +7,5 @@ The objective is to develop a robust and efficient system that can accurately id
 
 The purpose of this project is to detect the fraudulent transactions made by credit cards by the use of machine learning techniques, to stop fraudsters from the unauthorized usage of customers’ 
 accounts.
+
+Keywords: Credit Card Fraud Detection, Fraud Detection, Fraudulent Transactions,ADAboost, Gradient Boosting,  Support Vector Machine, Logistic Regression.
