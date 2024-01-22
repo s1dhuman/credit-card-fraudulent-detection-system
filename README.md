@@ -1,4 +1,5 @@
-![Uploading image.png…]()
+[image](https://github.com/s1dhuman/credit-card-fraudulent-detection-system/assets/94555274/c6796430-7bbb-44b8-bfd4-36a38b46ad04)[Uploading image.png…]()
+
 
 
 Credit card fraud poses a significant threat to financial institutions and cardholders, leading to substantial financial losses and potential harm to individuals. 
