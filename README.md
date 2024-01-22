@@ -1,3 +1,6 @@
+![Uploading image.png…]()
+
+
 Credit card fraud poses a significant threat to financial institutions and cardholders, leading to substantial financial losses and potential harm to individuals. 
 In order to mitigate the risks associated with fraudulent transactions, there is a critical need for an advanced Credit Card Fraud Detection System. 
 This system should leverage data mining techniques and ML algorithms to analyze a comprehensive set of transaction features and patterns, enabling the early detection and prevention of unauthorized or fraudulent activities. 
